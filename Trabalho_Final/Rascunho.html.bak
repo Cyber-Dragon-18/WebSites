@@ -1,0 +1,68 @@
+<div class="imagge">
+<div class="topnav" id="myTopnav">
+	<a href=""><img src="cd.png	" alt="Icon Inicio" style="width:42px;height:42px;"></a>
+	<a href="">Blu-ray</a>
+	<a>/</a>
+    <a href="">HD-DVD</a>
+	<a>/</a>
+    <a href="">HVD e Futuro</a>
+	<a>/</a>
+    <a href="" >Sobre</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">	
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+<div class="blu"></div>
+<p class="button1" href="Blu-ray.html">Blu-ray</p>
+<p class="button1" href="Blu-ray.html">HD-DVD</p>
+<p class="button1" href="Blu-ray.html">HVD e Futuro</p>
+</div>
+
+<p class="Titulo">Mundo do Armanezamento <br>Ótico II </p>
+
+
+.topnav a {
+  float: left;
+  padding-right:20px;
+  padding-top:40px;
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: 'Darker Grotesque', sans-serif;
+}
+.topnav a:hover {
+  background-color:transparent;
+  color: white;
+  font-size:bold;
+}
+
+.topnav a.active {
+  background-color:transparent;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+.button1 {
+  border: #fffff;
+  border-style:solid;
+  color:#fff;
+  border-width:1px;
+  background-color: blue;
+  padding: 20px 48px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 19px;
+  cursor: pointer;
+  top:100%;
+  margin-left:260px;
+}
+.blu{
+	height:600px;
+	text-align:center;
+	
+}

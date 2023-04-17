@@ -1,0 +1,74 @@
+<html>
+<head>
+<title>Mundo Armanezamento Otico</title>
+<link rel="stylesheet" href="Estilos.css">
+<link rel="icon" type="image/x-icon" href="cd.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+</head>
+<body>
+<div>
+<img src = "Mundo_Otico.jpg" alt = "mundo" usemap = "#mundo" />
+      <map name = "mundo">
+	 
+         <area onclick="document.getElementById('id01').style.display='block'" shape = "rect" coords = "200,190,354,230"
+            alt = "Blu-Ray" target = "_self"  /> 
+		<area  onclick="document.getElementById('id02').style.display='block'" shape = "rect" coords = "290,300,423,350" alt = "HTML Tutorial"
+             target = "_self" />
+		<area onclick="document.getElementById('id03').style.display='block'" shape = "rect" coords = "845,260,1050,305" alt = "PHP Tutorial"
+             target = "_self" /> 
+		<area onclick="document.getElementById('id04').style.display='block'" shape = "rect" coords = "1120,385,1210,425" alt = "PHP Tutorial"
+             target = "_self" /> 	
+		</map>
+</div>
+ <div id="id01" class="w3-modal">
+    <div class="w3-modal-content w3-animate-top w3-card-4">
+      <div class="tgt" >
+	  <span onclick="document.getElementById('id01').style.display='none'" 
+        class="w3-button w3-display-topright">&times;</span>
+		<embed type="text/html" src="Bluray.html" width="900" height="600">
+      </div>
+    </div>
+  </div>
+ <div id="id02" class="w3-modal">
+    <div class="w3-modal-content w3-animate-top w3-card-4">
+      <div class="tgg">
+		<span onclick="document.getElementById('id02').style.display='none'" 
+        class="w3-button w3-display-topright">&times;</span>
+		<embed type="text/html" src="hddvd.html" width="900" height="600">
+      </div>
+    </div>
+  </div>
+<div id="id03" class="w3-modal">
+    <div class="w3-modal-content w3-animate-top w3-card-4"> 
+      <div class="tgg">
+        <span onclick="document.getElementById('id03').style.display='none'" 
+        class="w3-button w3-display-topright">&times;</span>
+		<embed type="text/html" src="hvd.html" width="900" height="600">
+      </div>
+    </div>
+  </div>
+<div id="id04" class="w3-modal">
+    <div class="w3-modal-content w3-animate-top w3-card-4"> 
+      <div class="tgt">
+	  <span onclick="document.getElementById('id04').style.display='none'" 
+        class="w3-button w3-display-topright">&times;</span>
+	  <embed type="text/html" src="Sobre.html" width="900" height="600">
+      </div>
+    </div>
+  </div>
+
+<div class="loader-wrapper">
+    <span class="loader"><span class="loader-inner"></span></span>
+</div>
+
+
+
+
+  
+</body>
+</html>

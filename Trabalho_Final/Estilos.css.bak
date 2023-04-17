@@ -1,0 +1,385 @@
+body {
+margin: 0;
+background-image:url('ff1.jpg');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size:cover;
+}
+/* index */
+.tgt{
+	color:black;
+}
+.tgg{
+	color:white;
+}
+area{
+	cursor:pointer;
+}
+img{
+  display:block;
+  width:100%; 
+  height:100%;
+}
+/*Blu-Ray*/
+.square {
+  height: 420px;
+  width: 300px;
+  background-color:white;
+  margin-left:40px;
+  margin-top:10px;
+  text-align: center;
+  position:absolute;
+  border: 2px solid black;
+  transform: rotate(-10deg);
+}
+.square1 {
+  height: 420px;
+  width: 300px;
+  background-color:white;
+  margin-left:550px;
+  margin-top:55px;
+  text-align: center;
+  position:absolute;
+  border: 2px solid black;
+  transform: rotate(5deg);
+}
+.quadrado{
+  height: 300px;
+  width: 200px;
+  background-color:white;
+  margin:auto;
+  margin-top:550px;
+  text-align: center;
+  position:absolute;
+  border: 2px solid black;
+  transform: rotate(5deg);
+}
+.quadrado1{
+  height: 300px;
+  width: 200px;
+  background-color:white;
+  margin:auto;
+  margin-left:40px;
+  margin-top:550px;
+  text-align: center;
+  position:absolute;
+  border: 2px solid black;
+  transform: rotate(-15deg);
+}
+.quadrado2{
+  height: 300px;
+  width: 200px;
+  background-color:white;
+  margin-left:555px;
+  margin-top:550px;
+  text-align: center;
+  position:absolute;
+  border: 2px solid black;
+  transform: rotate(10deg);
+}
+.bloco{														
+  height: 350px;		
+  width: 800px;
+  background-color:white;
+  margin-left:40px;
+  margin-top:930px;
+  text-align: center;
+  position:absolute;
+  border: 2px solid black;
+  transform: rotate(-4deg);
+}
+.dentro {
+  height: 280px;
+  width: 250px;
+  margin-left:700px;
+  margin-top:500px;
+  background-color:transparent;
+  margin:auto;
+  border: 1px solid black;
+  text-align:center;
+}
+.dentro1 {
+  height: 200px;
+  width: 180px;
+  background-color:black;
+  margin:auto;
+  border: 1px solid black;
+}
+.dentro3{
+  height: 250px;
+  width: 780px;
+  background-color:white;
+  margin:auto;
+  border: 1px solid black;
+}
+.titulo1{
+	text-align:center;
+	margin:auto;
+	padding:20px;
+	font-size:50px;
+	color:#4843e6;
+	font-family: 'MedievalSharp', cursive;
+}
+.t{
+	font-size:30px;
+	padding-left:auto;
+	padding-top:auto;
+}
+.tt{
+	color:black;
+	font-size:16.5px;
+}
+.ttt{
+	font-size:20px;
+	padding-left:auto;
+	padding-top:auto;
+}
+.tttt{
+	font-size:30px;
+	padding-left:auto;
+	padding-top:auto;
+}
+.hist{
+	font-size:15px;
+}
+.espaco{
+	height:1350px;
+}
+@media screen and (min-width: 600px) {
+	
+	.quadrado{
+		margin-left:300px;
+	}
+	
+	
+}
+/*HD-DVD*/
+.titulo2{
+	text-align:center;
+	margin:auto;
+	padding:20px;
+	font-size:50px;
+	color:#9e0e1a;
+	font-family: 'MedievalSharp', cursive;
+}
+.hdd {
+  height: 420px;
+  width: 300px;
+  background-color:white;
+  margin-left:40px;
+  margin-top:10px;
+  text-align: center;
+  position:absolute;
+  border: 2px solid black;
+  transform: rotate(5deg);
+}
+.hdd1 {
+  height: 420px;
+  width: 300px;
+  background-color:white;
+  margin-left:550px;
+  margin-top:55px;
+  text-align: center;
+  position:absolute;
+  border: 2px solid black;
+  transform: rotate(-5deg);
+}
+.dvd{
+  height: 300px;
+  width: 400px;
+  background-color:white;
+  margin:auto;
+  margin-top:550px;
+  text-align: center;
+  position:absolute;
+  border: 2px solid black;
+  transform: rotate(5deg);
+}
+.dvd1{
+  height: 300px;
+  width: 200px;
+  background-color:white;
+  margin:auto;
+  margin-left:40px;
+  margin-top:550px;
+  text-align: center;
+  position:absolute;
+  border: 2px solid black;
+  transform: rotate(-15deg);
+}
+.boco{
+  height: 350px;
+  width: 800px;
+  background-color:white;
+  margin-left:40px;
+  margin-top:930px;
+  text-align: center;
+  position:absolute;
+  border: 2px solid black;
+  transform: rotate(-4deg);
+}
+.dentro2{
+  height: 200px;
+  width: 380px;
+  background-color:black;
+  margin:auto;
+  border: 1px solid black;
+	
+	
+}
+.dd{
+	color:black;
+	font-size:17px;
+	padding:10px;
+}
+.hist1{
+	font-size:16.4px;
+}
+.dot {
+  height: 15px;
+  width: 15px;
+  background-color: #242424; 
+  border-radius: 50%;
+  display: inline-block;
+  margin:5px;
+}
+@media screen and (min-width: 600px) {
+	
+	.dvd{
+		margin-left:300px;
+	}
+	
+	
+}
+
+/* HVD*/
+.hv {
+  height: 420px;
+  width: 300px;
+  background-color:white;
+  margin-left:40px;
+  margin-top:10px;
+  text-align: center;
+  position:absolute;
+  border: 2px solid black;
+  transform: rotate(-10deg);
+}
+.hv1 {
+  height: 420px;
+  width: 300px;
+  background-color:white;
+  margin-left:550px;
+  margin-top:55px;
+  text-align: center;
+  position:absolute;
+  border: 2px solid black;
+  transform: rotate(5deg);
+}
+.df{
+  height: 300px;
+  width: 200px;
+  background-color:white;
+  margin:auto;
+  margin-top:550px;
+  text-align: center;
+  position:absolute;
+  border: 2px solid black;
+  transform: rotate(5deg);
+}
+.df1{
+  height: 300px;
+  width: 200px;
+  background-color:white;
+  margin:auto;
+  margin-left:150px;
+  margin-top:550px;
+  text-align: center;
+  position:absolute;
+  border: 2px solid black;
+  transform: rotate(-15deg);
+}
+.bloc{
+  height: 350px;
+  width: 800px;
+  background-color:white;
+  margin-left:40px;
+  margin-top:930px;
+  text-align: center;
+  position:absolute;
+  border: 2px solid black;
+  transform: rotate(-4deg);
+}
+.fdf{
+	font-size:17px;
+	padding-left:auto;
+	padding-top:auto;
+	
+}
+.titulo3{
+	text-align:center;
+	margin:auto;
+	padding:20px;
+	font-size:50px;
+	color:#d9cb04;
+	font-family: 'MedievalSharp', cursive;
+}
+.titulo4{
+	text-align:center;
+	position:absolute;
+	margin-top:1350px;
+	margin-left:350px;
+	padding:20px;
+	font-size:50px;
+	color:#040dba;
+	font-family: 'MedievalSharp', cursive;
+}
+.hist2{
+	font-size:16px;
+}
+@media screen and (min-width: 600px) {
+	.df{
+		margin-left:500px;
+	}
+}
+/* sobre*/
+.sobre{
+	height:100%;
+	background-image:url('teste2.jpg');
+	background-attachment:fixed;
+	background-position:bottom;
+	background-repeat:no-repeat;
+	background-size:cover;
+	opacity:1;
+	padding-top:0px;
+}
+.ere{
+	height:50px;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  text-align: center;
+  margin:auto;
+  border: 1px solid black;
+  background-color:white;
+}
+.title {
+  color: grey;
+  font-size: 18px;
+  font-family: 'MedievalSharp', cursive;
+}
+.card a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+  font-family: 'MedievalSharp', cursive;
+  padding:10px;
+  margin-bottom:20px;
+}
+.card p{
+	font-family: 'MedievalSharp', cursive;
+}
+.card h1{
+	font-family: 'MedievalSharp', cursive;
+}
+

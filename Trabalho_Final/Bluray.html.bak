@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>Blu-Ray</title>
+<link rel="stylesheet" href="Estilos.css">
+<link rel="icon" type="image/x-icon" href="cd.png">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap" rel="stylesheet">
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+</head>
+<body>
+<h1 class="titulo1">Blu-Ray</h1>
+<div class="square"><span class="dot"></span><br><div class="dentro"><a><img src = "blu-ray.png" alt = "ola"/></a></div><p class="t"><strong>Disco Blu-Ray</strong></p></div>
+<div class="square1"><span class="dot"></span><br><div class="dentro"><p class="tt">É um disco com 12 cm de diâmetro, tal comos os CD e DVD comuns. Ao utilizar uma tecnologia onde o disco é lido por um lazer azul, permite que a informação seja armazenada com maior densidade, ao contrário dos  raios vermelhos utilizados nos DVD. O facto de poderem ser criados discos com quatro camadas,que podem armazenar 128 GB de memoria, os discos Blu-Ray podem ser utilizados para diversos usos.</p></div></div>
+<div class="quadrado"><span class="dot"></span><br><div class="dentro1"><a><img src = "witcher.gif" alt = "ola"/></a></div><p class="ttt"><strong>Videojogos</strong></p></div>
+<div class="quadrado1"><span class="dot"></span><br><div class="dentro1"><a><img src = "thor.gif" alt = "ola"/></a></div><p class="ttt"><strong>Filmes</strong></p></div>
+<div class="quadrado2"><span class="dot"></span><br><div class="dentro1"><a><img src = "audio.gif" alt = "ola"/></a></div><p class="ttt"><strong>Audio</strong></p></div>
+<div class="bloco"><span class="dot"></span><br><div class="dentro3"><p>O Blu-Ray representa a terceira geração de discos compactos (CD), a seguir de CDs de áudio e discos de vídeo digital (DVD). Com as televisões a mudaram para resoluções maiores, os filmes eram o perfeito uso para estes novos ecrãs de alta-definição. Então em 2002 duas tecnologias concorrentes, mas incompatíveis, foram apresentadas para armazenar vídeo HD em um disco do tamanho de um CD: HD DVD, proposto pela Toshiba e pela NEC Corporation, e Blu- ray, proposto por um grupo liderado pela Sony. Com duas tecnologias incompatíveis no mercado, os consumidores estavam relutantes em comprar leitores de próxima geração por medo de que um padrão perdesse para o outro e tornasse sua compra inútil. Além disso, os estúdios de cinema enfrentaram uma situação potencialmente cara se produzissem filmes para o formato perdedor, e as empresas de computador e software estavam preocupadas com o tipo de unidade de disco que seria necessário para seus produtos. Essas incertezas criaram pressão para se estabelecer um formato e, em 2008, a indústria do entretenimento aceitou o Blu-ray como seu padrão preferido. O grupo da Toshiba parou o desenvolvimento do HD DVD.  As vendas de discos Blu-ray nos Estados Unidos atingiram o pico em 2013, e as vendas de discos Blu-ray e DVDs combinados caíram quase pela metade de 2014 a 2018, com o declínio atribuído à concorrência de serviços de streaming. Mesmo a introdução de Blu-rays Ultra HD 4K em 2016, para ecrãs com resolução de 3.840 por 2.160 pixels, não conseguiu retardar o declínio.</p></div><p class="tttt"><strong>História</strong></p></div>
+<div class="espaco">
+</div>
+</body>
+</html>

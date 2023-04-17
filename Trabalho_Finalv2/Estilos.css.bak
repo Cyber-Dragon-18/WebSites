@@ -1,0 +1,196 @@
+body{
+	margin:0px;
+}
+img{
+	height:100%;
+	width:100%;
+	position:absolute;
+	size:cover;
+}
+.titulo{
+	position:absolute;
+	font-size:50px;
+	text-align:center;
+	color:white;
+	left:20%;
+	bottom:10%;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+	font-family: 'Rubik Glitch', cursive;
+}
+.button1 {
+  border:transparent;
+  border-style:solid;
+  color:black;
+  position:absolute;
+  border-width:1px;
+  background-color: transparent;
+  padding: 20px 48px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  cursor: pointer;
+  top:12%;
+  left:29.5%;
+  transform:rotate(-90deg);
+}
+.button2 {
+  border:transparent;
+  border-style:solid;
+  color:black;
+  position:absolute;
+  border-width:1px;
+  background-color: transparent;
+  padding: 20px 48px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  cursor: pointer;
+  top:9%;
+  left:42%;
+  transform:rotate(-90deg);
+}
+.button3 {
+  border:transparent;
+  border-style:solid;
+  color:black;
+  position:absolute;
+  border-width:1px;
+  background-color: transparent;
+  padding: 20px 48px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  cursor: pointer;
+  top:12%;
+  left:58%;
+  transform:rotate(-90deg);
+}
+.eu{
+	position:absolute;
+	top:60%;
+	left:15%;
+	cursor:pointer;
+}
+.titulobl{
+	text-align:center;
+	margin:auto;
+	padding:10px;
+	left:42%;
+	font-size:50px;
+	color:#4843e6;
+	position:absolute;
+	font-family: 'Rubik Glitch', cursive;
+}
+.textobl{
+	position:absolute;
+	text-align:justify;
+	left:45%;
+	right:35%;
+	top:12%;
+	font-size:12px;
+	color:black;
+}
+.histbl{
+	position:absolute;
+	text-align:justify;
+	color:black;
+	top:45%;
+	left:33%;
+	right:35%;
+	font-size:12px;
+}
+.histhd{
+	position:absolute;
+	text-align:justify;
+	color:black;
+	top:40%;
+	left:33%;
+	right:35%;
+	font-size:12px;
+}
+.histhv{
+	position:absolute;
+	text-align:justify;
+	color:black;
+	top:40%;
+	left:33%;
+	right:35%;
+	font-size:12px;
+}
+#overlay {
+  position: fixed; 
+  display: none;  
+  width: 100%;   
+  height: 100%;   
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5);   
+  z-index: 2;   
+  cursor: pointer;   
+}
+#overlay1 {
+  position: fixed; 
+  display: none; 
+  width: 100%; 
+  height: 100%; 
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5); 
+  z-index: 2; 
+  cursor: pointer;
+}
+#overlay2 {
+  position: fixed; 
+  display: none; 
+  width: 100%; 
+  height: 100%; 
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5); 
+  z-index: 2; 
+  cursor: pointer; 
+}
+#overlay3 {
+  position: fixed; 
+  display: none; 
+  width: 100%; 
+  height: 100%; 
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5); 
+  z-index: 2; 
+  cursor: pointer; 
+}
+#text{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 50px;
+  color: white;
+  text-align:center;
+  transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  font-family: 'Indie Flower', cursive;
+}
+@media only screen and (max-width: 600px) {
+  /* For tablets: */
+ .button1{
+	 left:20%;
+	 
+ }
+}
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  
+}

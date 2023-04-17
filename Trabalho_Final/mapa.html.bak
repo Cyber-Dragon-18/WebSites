@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML area Tag</title>
+   </head>
+
+   <body>
+      <img src = "Mundo_Otico_Teste.jpg" alt = "usemap" usemap = "#lessons"/>
+      <map name = "lessons">
+         <area shape = "rect" coords = "205,150,360,250"
+            href = "index.html" alt = "Perl Tutorial" target = "_self" />
+         <area shape = "rect" coords = "270,300,450,350" alt = "HTML Tutorial"
+            href = "index.html" target = "_self" />
+         <area shape = "rect" coords = "840,250,1060,300" alt = "PHP Tutorial"
+            href = "index.html" target = "_self" /> 
+		<area shape = "rect" coords = "1115,380,1150,430" alt = "PHP Tutorial"
+            href = "index.html" target = "_self" /> 
+      </map>
+   </body>
+</html>

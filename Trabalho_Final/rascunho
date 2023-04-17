@@ -1,0 +1,105 @@
+<div class="parallax">
+<div class="titulo">Blu-Ray</div>
+</div>
+<div class="bludef">
+<p class="def"><strong>Blu-Ray</strong> <i class='fa fa-arrow-right'></i> É um disco com 12 cm de diâmetro, tal comos os CD e DVD comuns. Ao utilizar uma tecnologia onde o disco é lido por um lazer azul, permite que a informação seja armazenada com maior densidade, ao contrário dos  raios vermelhos utilizados nos DVD. O facto de poderem ser criados discos com quatro camadas,que podem armazenar 128 GB de memoria, os discos Blu-Ray podem ser utilizados para diversos usos. </p> 
+<h2 class="utib">Utilizações Discos Blu-Ray</h2>
+<table class="center">
+<tr>
+<td>
+<p>Videojogos</p>
+</td>
+<td>
+<img src = "witcher.gif" alt = "videojogos" width="200" height="200"/>  
+</td>
+<td>
+<p>Filmes</p>
+</td>
+<td>
+<img src = "thor.gif" alt = "filme" width="200" height="200"/>  
+</td>
+</tr>
+<tr>
+<td>
+<p>Áudio</p>
+</td>
+<td>
+<img src = "audio.gif" alt = "audio" width="200" height="200"/>
+</td>
+<td>
+<p>Armanezamento<br>de Dados</p>
+</td>
+<td>
+<img src = "dados.gif" alt = "dados" width="200" height="200"/>
+</td>
+</tr>
+</table>
+<h2 class="utib">História do Blu-Ray</h2>
+<p class="info"></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.parallax{
+	background-image:url('montanha.jpg');
+	min-height:50%;
+	background-attachment:fixed;
+	background-position:bottom;
+	background-repeat:no-repeat;
+	background-size:cover;
+	opacity:1;
+	padding-top:0px;
+	position: relative;
+}
+.titulo{
+	background-color:black;
+	padding:10px;
+	position:absolute;
+	left:50%;
+	top:50%;
+	color:white;
+	text-align:center;
+	text-transform:uppercase;
+	font-size:7vw;
+	font-weight:bold;
+	transform:translate(-50%,-50%);
+	margin: 0 auto; 
+	width: 50%;
+	mix-blend-mode: multiply;
+	font-family: 'MedievalSharp', cursive;
+}
+.bludef{
+	background-color:#ffffff;
+	text-align:justify;
+	padding:20px;
+}
+.utib{
+	color:red;
+	text-align:center;
+}
+ td {
+  border: 2px solid black;
+  text-align:center;
+  padding:10px;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.info{
+	
+	
+	
+	
+	
+	

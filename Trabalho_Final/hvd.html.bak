@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>HVD-Futuro</title>
+<link rel="stylesheet" href="Estilos.css">
+<link rel="icon" type="image/x-icon" href="cd.png">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap" rel="stylesheet">
+<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+</head>
+<body>
+<h1 class="titulo3">HVD</h1>
+<div class="hv"><span class="dot"></span><br><div class="dentro"><a><img src = "hvd.png" alt = "ola"/></a></div><p class="t"><strong>Disco HVD</strong></p></div>
+<div class="hv1"><span class="dot"></span><br><div class="dentro"><p class="tt">HVD (Holographic Versatil Disc) é um disco com 10cm de diametro, sendo um dos mais pequenos a ser inventado. O facto de o laser utilizado ser composto por um raio verde e vermelho, é possivel armanezenar até 3,49 TB de dados. Estes discos foram criados para armanezenar dados, mas nunca entraram em produção pois a empresa que os inventou foi á falência.</p></div></div>
+<div class="df"><span class="dot"></span><br><div class="dentro1"><a><img src = "dados.gif" alt = "ola"/></a></div><p class="ttt"><strong>Armanezamento de<br>Dados</strong></p></div>
+<div class="df1"><span class="dot"></span><br><div class="dentro1"><a><img src = "bb.gif" alt = "ola"/></a></div><p class="fdf">A empresa declarou falência, antes de ver os discos</p></div>
+<div class="bloc"><span class="dot"></span><br><div class="dentro3"><p class="hist2">Antes de declarar falência em 2010, a Optware tentou criar um disco capaz de derrubar o Blu-Ray do pódio, com a tecnologia inovadora de utilizar um laser composto por duas cores, verde e vermelho, significava diferentes comprimentos de onde, o que era igual a uma capacidade de armazenamento bastante superior á do Blu-Ray. A Optware não foi a única empresa a tentar criar este tipo de discos holográficos, outras empresas como a InPhase Technologies, que estava a criar um disco parecido, chamado Tapestry Media. No entanto em 2006, o preço da tecnologia devia rondar os 15000$ e um único disco cerca de 140$, mas os preços baixaram bruscamente levando á falência de várias empresa ligadas a este projeto.</p></div><p class="tttt"><strong>História</strong></p></div>
+<div class="espaco">
+</body>
+</html>
